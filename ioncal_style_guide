@@ -1,0 +1,44 @@
+#####
+#HPIC_cal (ioncal) style guide
+#to be used for mixed standards with identical concentrations. 
+#####
+
+# Installation of ioncal
+
+library(devtools)
+devtools::install_github("putt-ad/ioncal")
+
+##### rClean the header (est. time = 2 min) #####
+# manually open the document and remove all empty cells. Ioncal uses the concentration values from the IC detectors. 
+# This means remove retetention time, amount, peak percent and all others aside from measured concentration (µs/cm).
+
+head(your_df) 
+# must look like this
+Inj.	Injection.Name	Type 	analyte1	analyte2	analyte3
+
+##### make your standards detectable (est. time = 5 min) #####
+# ensure that the standard concentrations are listed under "Injection.Name" (without units).
+# ensure that the standard has a unique identifier listed under "Type" here we used "standard2"
+# make sure that your samples to be calibrated are all labeled as "Type" = "Unknown"
+# you can leave other calibrations standards in as they will not be detected nor will they interfere with calibaration
+
+View(your_df)
+# check these results against the provided data "ion_test.csv"
+
+##### read file as dataframe #####
+your_df <- read.csv ("name_of_your_ion_data.csv")
+head(your_df)
+View(your_df)
+
+##### test calibration using ion_test.csv dataset #####
+ion_test <- read.csv("ion_test.csv")
+ioncal(ion_test)
+name of calibration standard: oas
+
+##### now use your data #####
+ioncal(your_df)
+
+#the function will prompt you for the name of your standard
+name of calibration standard:
+
+
