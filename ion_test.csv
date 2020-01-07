@@ -1,0 +1,177 @@
+﻿Inj.,Injection.Name,Type ,Lactate,Acetate,Propionate,Formate,Butyrate,Pyruvate,Succinate,Oxalate,Fumarate,Citrate
+1,WaterA1,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+2,WaterB1,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+3,WaterB2,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+4,Anion Std 0.1 ppm ,Calibration Standard,n.a.,n.a.,n.a.,0.0092,n.a.,n.a.,0.0028,n.a.,n.a.,n.a.
+5,Anion Std 0.5 ppm ,Calibration Standard,n.a.,n.a.,n.a.,0.0551,n.a.,n.a.,n.a.,n.a.,0.001,n.a.
+6,Anion Std 2 ppm ,Calibration Standard,n.a.,n.a.,n.a.,0.0385,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+7,Anion Std 10 ppm,Calibration Standard,n.a.,n.a.,n.a.,0.0528,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+8,Anion Std 10 ppm(2),Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+9,Anion Std 50 ppm ,Calibration Standard,n.a.,n.a.,n.a.,0.0435,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+10,Anion Std 100 ppm,Calibration Standard,n.a.,n.a.,n.a.,0.0443,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+11,WaterA2,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+12,0.5,oas,n.a.,n.a.,n.a.,0.0157,n.a.,n.a.,0.002,n.a.,0.0009,n.a.
+13,2,oas,0.0032,0.0025,0.0032,0.0107,0.0013,0.0026,0.0094,0.0062,0.0054,n.a.
+14,5,oas,0.012,0.012,0.0091,0.0557,0.0084,0.0086,0.0217,0.0258,0.0277,n.a.
+15,20,oas,0.0503,0.0446,0.0432,0.1044,0.0427,0.0365,0.0691,0.1007,0.1047,0.0075
+16,100,oas,0.2712,0.2211,0.2283,0.2996,0.2242,0.2015,0.3385,0.5354,0.5648,0.0798
+17,200,oas,0.5685,0.4248,0.4315,0.5643,0.4252,0.4101,0.6318,0.8076,1.0577,0.43
+18,WaterA3,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,1.0635
+19,WaterB3,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+20,Anion Std 10 ppm(2),Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+21,WaterB4,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+22,1-A,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+23,2-A,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+24,3-A,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+25,4-A,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+26,5-A,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+27,6-A,Unknown,n.a.,0.0116,n.a.,0.0058,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+28,7-A,Unknown,0.0203,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+29,8-A,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+30,9-A,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.0231,n.a.,n.a.
+31,10-A,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+32,11-A,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+33,12-A,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+34,13-A,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+35,14-A,Unknown,0.0026,0.018,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+36,15-A,Unknown,0.0048,0.0269,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+37,WaterB5,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.0052,n.a.,n.a.,n.a.
+38,Anion Std 10 ppm(2),Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+39,16-A,Unknown,0.0048,0.0032,n.a.,0.0034,n.a.,n.a.,n.a.,0.0022,n.a.,n.a.
+40,17-A,Unknown,n.a.,0.0036,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+41,18-A,Unknown,n.a.,0.0028,n.a.,0.0034,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+42,19-A,Unknown,n.a.,n.a.,n.a.,0.003,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+43,20-A,Unknown,n.a.,0.008,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+44,21-A,Unknown,n.a.,0.0037,n.a.,0.003,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+45,22-A,Unknown,n.a.,0.0022,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+46,23-A,Unknown,0.0305,n.a.,n.a.,n.a.,n.a.,n.a.,0.0084,n.a.,n.a.,n.a.
+47,24-A,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+48,25-A,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+49,26-A,Unknown,0.1571,n.a.,n.a.,0.0469,n.a.,0.0048,n.a.,0.0047,n.a.,n.a.
+50,27-A,Unknown,n.a.,0.003,n.a.,0.0033,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+51,28-A,Unknown,n.a.,n.a.,n.a.,0.0027,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+52,29-A,Unknown,n.a.,0.0018,n.a.,0.0037,n.a.,n.a.,n.a.,0.0131,n.a.,n.a.
+53,30-A,Unknown,n.a.,0.0023,n.a.,0.0025,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+54,WaterC2,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+55,31-A,Unknown,n.a.,0.0026,n.a.,0.0043,n.a.,n.a.,n.a.,n.a.,0.0028,n.a.
+56,B1_S1_1,Unknown,n.a.,0.0194,n.a.,0.005,0.002,n.a.,n.a.,0.0033,n.a.,n.a.
+57,B1_S1_2,Unknown,n.a.,0.0402,n.a.,0.0059,0.0024,0.0015,n.a.,0.0046,n.a.,n.a.
+58,B1_S1_3,Unknown,n.a.,0.0099,n.a.,0.009,0.0037,n.a.,n.a.,0.0032,n.a.,n.a.
+59,B2_LL_1,Unknown,n.a.,0.022,n.a.,0.0075,n.a.,n.a.,n.a.,0.005,n.a.,n.a.
+60,B2_LL_2,Unknown,n.a.,0.0235,n.a.,0.0159,n.a.,n.a.,n.a.,0.007,n.a.,n.a.
+61,B2_LL_3,Unknown,n.a.,0.0698,n.a.,0.0155,0.0047,n.a.,n.a.,0.0056,n.a.,n.a.
+62,B3_S3_1,Unknown,n.a.,0.0091,n.a.,0.0044,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+63,B3_S3_2,Unknown,n.a.,0.0336,n.a.,0.0086,0.0027,0.0037,n.a.,n.a.,n.a.,n.a.
+64,B3_S3_3,Unknown,n.a.,0.1593,n.a.,0.0101,n.a.,0.021,n.a.,n.a.,n.a.,n.a.
+65,B4_S6_1,Unknown,0.0148,0.2733,n.a.,0.0288,n.a.,0.02,n.a.,0.0399,n.a.,n.a.
+66,B4_S6_2,Unknown,n.a.,0.1893,0.0102,n.a.,0.0147,0.0118,n.a.,n.a.,n.a.,n.a.
+67,B4_S6_3,Unknown,0.0244,0.5304,0.0153,0.0394,0.0059,0.029,0.0087,0.0306,n.a.,0.0084
+68,B5_S4_1,Unknown,n.a.,0.0309,n.a.,0.0066,n.a.,0.0026,n.a.,0.0029,n.a.,n.a.
+69,B5_S4_2,Unknown,n.a.,0.1171,n.a.,n.a.,n.a.,0.0066,n.a.,n.a.,n.a.,n.a.
+70,B5_S4_3,Unknown,n.a.,0.0988,0.0051,n.a.,n.a.,0.0046,n.a.,0.0039,n.a.,n.a.
+71,WaterC3,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.0015,n.a.
+72,Anion 10ppm(2),Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+73,B6_S10_1,Unknown,0.1555,0.848,0.0482,n.a.,0.1087,0.0227,0.0153,n.a.,n.a.,n.a.
+74,B6_S10_2,Unknown,0.1141,0.5109,0.0146,0.0656,0.0154,0.0289,n.a.,0.0104,n.a.,n.a.
+75,B6_S10_3,Unknown,0.0483,0.2318,n.a.,n.a.,n.a.,0.0124,n.a.,0.0084,n.a.,n.a.
+76,B7_3CSR_1,Unknown,0.0041,0.2264,0.0098,n.a.,n.a.,0.0055,n.a.,0.0054,n.a.,n.a.
+77,B7_3CSR_2,Unknown,n.a.,0.1728,0.0072,n.a.,0.0068,0.0161,n.a.,0.0134,n.a.,n.a.
+78,B7_3CSR_3,Unknown,0.0102,0.1248,0.0051,0.0061,0.0066,0.0701,n.a.,0.0078,n.a.,n.a.
+79,B8_S7_1,Unknown,n.a.,0.0514,n.a.,0.0315,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+80,B8_S7_2,Unknown,0.0089,0.0651,n.a.,0.0537,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+81,waterC4,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+82,B8_S7_3,Unknown,0.0057,0.1324,n.a.,0.0565,n.a.,n.a.,n.a.,n.a.,n.a.,0.0965
+83,B9_SR_1,Unknown,n.a.,0.3308,0.0122,0.0295,n.a.,0.0206,n.a.,n.a.,n.a.,n.a.
+84,B9_SR_2,Unknown,n.a.,0.0452,n.a.,0.0306,n.a.,n.a.,n.a.,0.005,n.a.,n.a.
+85,B9_SR_3,Unknown,n.a.,0.2596,0.0093,0.0461,n.a.,0.023,n.a.,0.0071,n.a.,n.a.
+86,B10_S2_1,Unknown,0.0028,0.0572,n.a.,0.0384,n.a.,n.a.,n.a.,0.004,n.a.,n.a.
+87,B10_S2_2,Unknown,0.0038,0.0643,n.a.,0.0327,0.0037,0.0089,n.a.,0.0034,n.a.,n.a.
+88,B10_S2_3,Unknown,0.0044,0.0683,0.0054,0.0398,0.0025,n.a.,n.a.,0.0036,n.a.,n.a.
+89,B11_DR_1,Unknown,0.003,0.0673,0.0038,0.0399,n.a.,n.a.,n.a.,0.0026,n.a.,n.a.
+90,B11_DR_2,Unknown,0.0081,0.0671,n.a.,0.0415,n.a.,n.a.,0.003,0.003,n.a.,n.a.
+91,B11_DR_3,Unknown,n.a.,n.a.,n.a.,n.a.,0.0031,n.a.,n.a.,n.a.,n.a.,n.a.
+92,B12_AB_1,Unknown,n.a.,0.0585,n.a.,0.0354,n.a.,n.a.,n.a.,0.0124,n.a.,n.a.
+93,B12_AB_2,Unknown,n.a.,0.0644,n.a.,0.0456,n.a.,n.a.,n.a.,0.01,n.a.,n.a.
+94,B12_AB_3,Unknown,n.a.,0.0557,0.0046,0.0655,n.a.,n.a.,n.a.,0.0123,n.a.,n.a.
+95,B13_S8_1,Unknown,n.a.,1.2439,0.1108,0.0369,0.0287,0.0286,n.a.,0.0075,n.a.,n.a.
+96,B13_S8_2,Unknown,n.a.,0.7116,0.0834,n.a.,0.0581,0.0348,n.a.,n.a.,n.a.,n.a.
+97,AN9_W1,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+98,AN9_W2,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+99,AN9_W3,Unknown,n.a.,0.0028,n.a.,0.0029,n.a.,n.a.,n.a.,0.0017,n.a.,n.a.
+100,AN11_W1,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.003,n.a.,n.a.
+101,AN11_W2,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.0024,n.a.,n.a.
+102,AN11_W3,Unknown,n.a.,0.0038,n.a.,0.0067,n.a.,n.a.,n.a.,0.0031,n.a.,n.a.
+103,AN12_W1,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.0032,n.a.,n.a.
+104,AN12_W2,Unknown,n.a.,0.006,n.a.,0.0036,n.a.,n.a.,n.a.,0.0029,n.a.,n.a.
+105,waterBB1,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+106,AN12_W3,Unknown,n.a.,0.0048,n.a.,0.0098,n.a.,n.a.,n.a.,0.004,n.a.,n.a.
+107,AN13_W1,Unknown,0.0739,0.0058,n.a.,0.0046,n.a.,0.0029,n.a.,0.003,n.a.,n.a.
+108,AN13_W2,Unknown,n.a.,0.0059,n.a.,0.0054,n.a.,n.a.,n.a.,0.0033,n.a.,n.a.
+109,AN13_W3,Unknown,n.a.,n.a.,n.a.,0.0065,n.a.,n.a.,n.a.,0.0043,n.a.,n.a.
+110,AN14_W1,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+111,AN14_W2,Unknown,n.a.,n.a.,n.a.,0.0043,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+112,AN14_W3,Unknown,0.0352,n.a.,n.a.,0.0602,n.a.,n.a.,n.a.,0.0048,n.a.,n.a.
+113,AN15_W1,Unknown,n.a.,n.a.,n.a.,0.0065,n.a.,n.a.,n.a.,0.0032,n.a.,n.a.
+114,AN15_W2,Unknown,n.a.,0.003,n.a.,0.0046,n.a.,n.a.,n.a.,0.0027,n.a.,n.a.
+115,AN15_W3,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+116,AN16_W1,Unknown,n.a.,n.a.,n.a.,0.0046,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+117,AN16_W2,Unknown,n.a.,n.a.,n.a.,0.0045,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+118,AN16_W3,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+119,AN17_W1,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.0017,n.a.
+120,water,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.017,n.a.,n.a.
+121,10ppm,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+122,AN17_W2,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.0022,n.a.,n.a.
+123,AN17_W3,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,0.003,n.a.,n.a.
+124,AN9_S1,Unknown,0.0594,1.8905,0.1249,0.1238,0.5628,0.0449,0.0196,0.0153,n.a.,n.a.
+125,AN9_S2,Unknown,n.a.,0.5984,0.0408,n.a.,0.0832,0.0338,n.a.,n.a.,n.a.,n.a.
+126,AN9_S3,Unknown,n.a.,0.2455,0.0088,n.a.,0.017,0.015,n.a.,n.a.,n.a.,n.a.
+127,AN11_S1,Unknown,0.0052,0.8429,0.0382,0.0143,0.1252,0.0366,0.0327,0.0356,n.a.,0.0068
+128,AN11_S2,Unknown,0.0103,1.1138,0.0677,0.0188,0.2344,0.0551,0.0643,0.0068,n.a.,n.a.
+129,AN11_S3,Unknown,n.a.,0.6898,0.0173,0.0159,0.0932,0.0345,0.0149,0.0126,n.a.,n.a.
+130,AN12_S1,Unknown,n.a.,0.5081,0.0447,0.0173,0.0751,0.033,n.a.,0.0032,n.a.,n.a.
+131,AN12_S2,Unknown,n.a.,0.2624,0.0194,0.0145,0.0197,0.0349,n.a.,0.0028,n.a.,n.a.
+132,AN12_S3,Unknown,n.a.,0.1875,0.0095,0.0164,0.0154,0.007,n.a.,0.0036,n.a.,n.a.
+133,AN13_S1,Unknown,0.0065,0.6141,0.1011,0.0091,0.1178,0.0631,0.0087,0.0089,n.a.,n.a.
+134,AN13_S2,Unknown,0.0042,1.0179,0.1296,0.0077,0.2024,0.0694,0.0069,0.0094,n.a.,n.a.
+135,AN13_S3,Unknown,n.a.,0.4354,0.0539,n.a.,0.0716,0.0358,n.a.,0.0045,n.a.,n.a.
+136,AN14_S1,Unknown,0.0028,0.2449,0.0169,0.0232,0.0244,0.0023,n.a.,0.003,n.a.,0.0042
+137,AN14_S2,Unknown,0.012,0.2788,0.0049,0.0505,0.0877,0.0083,0.0054,0.006,n.a.,n.a.
+138,AN14_S3,Unknown,0.0075,0.3291,0.0139,0.0953,0.0459,0.0069,n.a.,0.0046,n.a.,n.a.
+139,AN15_S1,Unknown,n.a.,0.0686,n.a.,0.0147,0.0039,n.a.,n.a.,0.0052,n.a.,n.a.
+140,AN15_S2,Unknown,n.a.,0.0761,n.a.,0.0179,0.0033,0.0107,n.a.,0.0071,n.a.,n.a.
+141,AN15_S3,Unknown,n.a.,0.2667,0.0188,0.0167,0.0116,0.0082,n.a.,0.005,n.a.,0.0097
+142,AN16_S1,Unknown,n.a.,0.0129,n.a.,0.0102,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+143,AN16_S2,Unknown,n.a.,0.0035,n.a.,0.0063,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+144,AN16_S3,Unknown,n.a.,0.0818,n.a.,0.005,n.a.,n.a.,n.a.,0.0035,n.a.,n.a.
+145,AN17_S1,Unknown,n.a.,0.4686,0.0432,n.a.,0.0808,0.0339,n.a.,0.0064,n.a.,n.a.
+146,WATER,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+147,AN17_S2,Unknown,n.a.,0.3076,0.0181,0.007,0.035,0.0125,n.a.,0.0058,n.a.,n.a.
+148,AN17_S3,Unknown,n.a.,0.3543,0.0327,0.0035,0.0553,0.0252,n.a.,0.0035,n.a.,n.a.
+149,AN15_W3_new,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+150,WATER,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+151,AN16_W1,Unknown,0.0058,n.a.,n.a.,0.0041,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+152,AN16_W2,Unknown,0.0024,n.a.,n.a.,0.0031,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+153,AN16_W3,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+154,PFAS_CONS,Unknown,n.a.,0.1679,n.a.,0.1253,n.a.,n.a.,0.0292,0.0365,n.a.,n.a.
+155,WATER,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+156,PFAS_M,Unknown,n.a.,0.1577,n.a.,0.1006,n.a.,n.a.,0.0409,0.0441,n.a.,n.a.
+157,WATER,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+158,TCPW_SCOTT,Unknown,0.0177,0.0302,n.a.,0.0327,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+159,WATER,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+160,CPW_SCOTT,Unknown,0.0144,0.0329,n.a.,0.0348,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+161,WATER,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+162,WATER BB1,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+163,0.5PPM,Unknown,n.a.,n.a.,n.a.,0.0118,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+164,10PPM,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+165,100PPM,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+166,WATER BB2,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+167,2uM OA,Unknown,0.0036,0.004,0.0038,0.0129,0.005,0.003,0.0105,n.a.,n.a.,n.a.
+168,20uM OA,Unknown,0.051,0.0462,0.0467,0.1057,0.0425,0.0374,0.0752,0.1098,0.1096,n.a.
+169,200uM OA,Unknown,0.5408,0.4144,0.4086,0.5733,0.392,0.4103,0.6087,1.0552,1.0023,n.a.
+170,WaterBB3,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,1.0448
+171,WaterBB4,Unknown,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.,n.a.
+Maximum,,,0.5685,1.8905,0.4315,0.5733,0.5628,0.4103,0.6318,1.0552,1.0577,1.0635
+Average,,,0.0568,0.2114,0.0553,0.0405,0.075,0.0412,0.0847,0.0427,0.24,0.2751
+Minimum,,,0.0024,0.0018,0.0032,0.0025,0.0013,0.0015,0.002,0.0017,0.0009,0.0042
+Standard Deviation,,,0.1246,0.3185,0.0942,0.0874,0.1208,0.0821,0.1784,0.1623,0.4017,0.4303
+Relative Standard Deviation,,,219.40%,150.64%,170.21%,216.01%,161.05%,199.12%,210.64%,379.95%,167.37%,156.41%
