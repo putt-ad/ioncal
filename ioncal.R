@@ -80,9 +80,9 @@ ioncal <- function(df) {
   #result message
   cat("\nSuccess! \nObtained calibration standard concentrations: ", y, 
       "\nFor analytes:", col_names, "\n\nThe following output files have been added to your directory(",wd,")
-      \ncalibrated data output:",file_name,"calibrated_analytes.csv 
-      \ncalbiration plots:",file_name,"calibration curves.pdf
-      \nstats overview:" ,file_name,"stats_overview.csv\nCalculated standards:" ,file_name,"standard_results.csv")
+      calibrated data output:",file_name,"calibrated_analytes.csv 
+      calbiration plots:",file_name,"calibration curves.pdf
+      stats overview:" ,file_name,"stats_overview.csv\nCalculated standards:" ,file_name,"standard_results.csv")
 }
 
 
