@@ -34,7 +34,7 @@ ioncal <- function(df) {
     a[i-3] <- m$coefficients[1]
     r2[i-3] <- summary(m)$r.squared
     print(summary(m))
-    plot(df_oas[[i]] ~y, df_oas, main = colnames(df_oas)[i], xlab = paste0("Standard Conc.(",units,")"), ylab = paste0("Measured Amount",units,")"))
+    plot(df_oas[[i]] ~y, df_oas, main = colnames(df_oas)[i], xlab = paste0("Standard Conc.(",units,")"), ylab = paste0("Measured Amount(",units,")"))
     abline(lm(df_oas[[i]] ~y, df_oas))
   }
   dev.off()
